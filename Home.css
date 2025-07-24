@@ -1,0 +1,172 @@
+
+.logo-header-background{
+background-color: rgb(0, 0, 0);
+}
+    .hey{
+        padding-left: 130px; 
+    }
+*{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.logo{
+width: 150px;
+padding-left: 60px;
+}
+.homelogo{
+    width: 50px;
+}
+.option ul{
+    font-size: 25px;
+    display: flex;
+   justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px rgb(8, 8, 8);
+}
+.option ul li a :hover{
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.sport1{
+    background-color: white;
+    width: 250px;
+    margin: 5px;
+    box-shadow: 2px 2px 5px 1px rgb(14, 13, 13);
+    overflow: hidden;
+}
+.sport1:hover{
+box-shadow: 0 0 10px rgb(0, 187, 255);
+  transition: 0.2s all ease;
+transform: translateY(-10px);
+
+}
+.Sportcover:hover .sport1 {
+  filter: blur(1.5px);
+      transition: 0.4s;
+}
+ul li{
+     margin-left: 110px;
+}
+.Sportcover .sport1:hover {
+  filter: none;
+}
+.sport1  img{
+   width: 100%;
+  object-fit: cover;
+  height: 190px;
+}
+.txt1 h2{
+  width:100%;
+  font-family: Khmer Os Battambang;
+  font-size: 15px;
+  text-align: center;
+  color: black;
+}
+.Sportcover{ 
+display: flex;
+justify-content: center;
+ border-width: 2px;
+}
+.sporttxtbackground{
+   margin-top: 5px;
+}
+.footer{
+    border-radius: 5px;
+    border-top: 5px solid rgb(97, 56, 56);
+    width: 100%;
+    background-color:black ;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.homelogo:hover{
+    transition: 0.5s all ease;
+    transform: translateY(-5px);
+}
+.option ul li a{
+    color: rgb(255, 255, 255);
+}
+
+.option ul :hover{
+    transition: 0.4s all ease;
+    transform: translateY(-8px);
+}
+.menu{
+  background-color: brown;
+}
+
+.icon img{
+margin-top: 10px;
+padding-left:150px;
+width: 90px; 
+margin-left: -60px;
+}
+
+.icon img:hover{
+    width: 85px;
+}
+.aboutus p{
+color: white;
+padding-left: 250px;
+font-family: Khmer OS Muol Light;
+font-weight: bold;
+font-size: 20px;
+margin-top: 30px;
+}
+ .f3{
+margin: 15px;
+font-family: Khmer Os Battambang;
+color: white;
+padding-left:70px;
+font-size: 15px;
+font-weight: bold;
+}
+.aboutus1{
+color: white;
+padding-left: 10px;
+font-family: Khmer OS Muol Light;
+font-weight: bold;
+font-size: 20px;
+margin-top: 30px;
+}
+.connect img{
+    margin-top: 5px;
+    width: 30px;
+    padding-left:5px ;
+}
+.connect img:hover{
+    width: 35px;   
+}
+ .f1{
+font-family: Khmer Os Seimreap;
+font-size: 20px;
+margin-top: -20px;
+color:white;
+padding-left: 100px;
+}
+
+.icon span {
+        color:white;
+        padding-left: 5px;
+        font-family: Khmer Os Battambang;
+        font-size: 15px;
+        font-weight: bold;
+    }
+.connect{
+    color: white;
+}
+.abm{
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+    background-color: none;
+}
+
+
+
+
